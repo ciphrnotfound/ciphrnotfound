@@ -1,24 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:0a0a0a&height=100&section=header&fontSize=1&fontColor=0a0a0a" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:0a0a0a&height=90&text=shay%20jeremy&fontSize=42&fontColor=eeeeee&animation=fadeIn&fontAlignY=62" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:0a0a0a&height=36&text=full-stack%20engineer%20%C2%B7%20AI%20builder%20%C2%B7%20product%20thinker&fontSize=13&fontColor=555555&fontAlignY=62" width="100%"/>
-</div>
 
 <br/>
 
-<div align="center">
+# shay jeremy
+
+`full-stack engineer · AI builder · product thinker`
+
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=300&size=13&pause=1200&color=666666&center=true&vCenter=true&width=500&lines=founder+%40+bothive+%E2%80%94+enterprise+AI+PaaS;designed+HiveLang%2C+a+DSL+for+AI+agents;building+clara+%26+astra+in+the+open;self-taught+%C2%B7+2%2B+years+in+production;Lagos+%E2%86%92+everywhere)](https://git.io/typing-svg)
 
-</div>
-
 <br/>
+
+</div>
 
 ---
 
