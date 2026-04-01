@@ -2,7 +2,7 @@
 
 <br/>
 
-# shay jeremy
+# Shay Jeremy
 
 `full-stack engineer · AI builder · product thinker`
 
