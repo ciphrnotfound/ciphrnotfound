@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:111111,100:0a0a0a&height=140&section=header&text=shay%20jeremy&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn&desc=full-stack%20engineer%20%C2%B7%20AI%20builder%20%C2%B7%20product%20thinker&descSize=13&descAlignY=82&descColor=666666" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:111111,100:0a0a0a&height=140&section=header&text=shay%20jeremy&fontSize=36&fontColor=eeeeee&fontAlignY=65&animation=fadeIn&fontAlignX=50&desc=full-stack%20engineer%20%C2%B7%20AI%20builder%20%C2%B7%20product%20thinker&descSize=13&descAlignY=82&descColor=666666" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=1200&color=555555&center=true&vCenter=true&width=480&lines=founder+%40+bothive+%E2%80%94+enterprise+AI+PaaS;designed+HiveLang%2C+a+DSL+for+AI+agents;building+clara+%26+astra+in+the+open;self-taught+%C2%B7+2%2B+years+in+production;Lagos+%E2%86%92+everywhere)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=300&size=13&pause=1200&color=555555&center=true&vCenter=true&width=480&lines=founder+%40+bothive+%E2%80%94+enterprise+AI+PaaS;designed+HiveLang%2C+a+DSL+for+AI+agents;building+clara+%26+astra+in+the+open;self-taught+%C2%B7+2%2B+years+in+production;Lagos+%E2%86%92+everywhere)](https://git.io/typing-svg)
 
 </div>
 
@@ -169,12 +169,16 @@ stack: Rust · TypeScript · CLI
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
-**backend & tooling**
+**backend & database**
 
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 <br/>
 
@@ -224,7 +228,7 @@ stack: Rust · TypeScript · CLI
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&pause=2000&color=333333&center=true&vCenter=true&width=400&lines=building+in+public.+shipping+in+silence.;Lagos+%E2%86%92+everywhere.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=300&size=11&pause=2000&color=333333&center=true&vCenter=true&width=400&lines=building+in+public.+shipping+in+silence.;Lagos+%E2%86%92+everywhere.)](https://git.io/typing-svg)
 
 </div>
 
