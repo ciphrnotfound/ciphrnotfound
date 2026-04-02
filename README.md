@@ -2,7 +2,7 @@
 
 <br/>
 
-# Shay Jeremy
+<h1>Shay Jeremy</h1>
 
 `full-stack engineer · AI builder · product thinker`
 
@@ -38,7 +38,7 @@ Clara         personal AI assistant · context-aware · always useful  → in de
 Astra         conversational CLI · AI in your terminal               → in dev
 Blockcred     Web3 credentialing platform · full frontend            → live
 Derin Foods   food export · corporate website · mobile-first         → live
-Pxxl App      UI/UX contract · React · Framer Motion                 → live
+Pxxl App      Frontend · React · Framer Motion                 → live
 ```
 
 ---
