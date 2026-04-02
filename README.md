@@ -3,7 +3,7 @@
 <br/>     
       
 <h1>Shay Jeremy</h1> 
-
+ 
 `full-stack engineer · AI builder · product thinker`
 
 <br/>
