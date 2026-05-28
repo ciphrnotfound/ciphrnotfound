@@ -2,7 +2,7 @@
   <h1>Shay Jeremy</h1>
   <p><strong>Full-Stack Engineer · AI Builder · Product Thinker</strong></p>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=400&size=14&pause=2000&color=888888&center=true&vCenter=true&width=600&lines=Building+enterprise+AI+infrastructure;Founder+%40+Bothive;Shipping+code+in+public;Always+learning;Always+shipping)](https://github.com/ciphrnotfound)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=400&size=14&pause=2000&color=888888&center=true&vCenter=true&width=600&lines=Building+enterprise+AI+infrastructure;Founder+of+Bothive;Shipping+products+that+matter)](https://github.com/ciphrnotfound)
   
   <br/>
   
@@ -69,11 +69,11 @@ mission: Making AI accessible and practical for enterprise
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ciphrnotfound&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=79c0ff&border_color=30363d&border_radius=8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ciphrnotfound&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=79c0ff&border_color=30363d)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ciphrnotfound&theme=dark&border_radius=8&background=0d1117)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ciphrnotfound&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_color=30363d&border_radius=8)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ciphrnotfound&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_color=30363d)
 
 </div>
 
