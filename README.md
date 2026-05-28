@@ -1,108 +1,82 @@
 <div align="center">
-  <h1>Shay Jeremy</h1>
-  <p><strong>Full-Stack Engineer · AI Builder · Product Thinker</strong></p>
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=400&size=14&pause=2000&color=888888&center=true&vCenter=true&width=600&lines=Building+enterprise+AI+infrastructure;Founder+of+Bothive;Shipping+products+that+matter)](https://github.com/ciphrnotfound)
-  
-  <br/>
-  
-  [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:akinlorinjeremiah@gmail.com)](mailto:akinlorinjeremiah@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/ciphrnotfound)](https://github.com/ciphrnotfound)
-  [![Bothive](https://img.shields.io/badge/Bothive.Cloud-0891B2?style=for-the-badge&logo=vercel&logoColor=white&link=https://bothive.cloud)](https://bothive.cloud)
-  
+
+<h1>Shay Jeremy</h1>
+
+<p>Full-Stack Engineer · AI Builder · Product Thinker</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=300&size=13&pause=1200&color=666666&center=true&vCenter=true&width=500&lines=Founder+%40+Bothive+%E2%80%94+Enterprise+AI+PaaS;Designed+HiveLang%2C+a+DSL+for+AI+Agents;Building+Clara+%26+Astra+in+the+Open;Self-Taught+%C2%B7+2%2B+Years+in+Production;Lagos+%E2%86%92+Everywhere)](https://git.io/typing-svg)
+
+[![Email](https://img.shields.io/badge/email-0a0a0a?style=flat-square&logo=gmail&logoColor=white)](mailto:akinlorinjeremiah@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-0a0a0a?style=flat-square&logo=github&logoColor=white)](https://github.com/ciphrnotfound)
+[![Bothive](https://img.shields.io/badge/bothive.cloud-0a0a0a?style=flat-square&logo=vercel&logoColor=white)](https://bothive.cloud)
+
 </div>
 
 ---
 
-## 🚀 About Me
-
 ```yaml
-name: Shay Jeremy
-title: Full-Stack Software Engineer
-location: Lagos, Nigeria 🇳🇬
-focus: [ Enterprise AI, Product Engineering, Scalable Infrastructure ]
-status: Building in public • Shipping in silence
-mission: Making AI accessible and practical for enterprise
+name:      Shay Jeremy
+role:      Full-Stack Software Engineer
+location:  Lagos, Nigeria
+building:  [ Bothive, Clara, Astra ]
+status:    always shipping
 ```
 
 ---
 
-## 💼 Current Projects
+### Projects
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| **[Bothive](https://bothive.cloud)** | Enterprise AI PaaS • Agent Builder • HiveLang DSL | 🚀 Live |
-| **Clara** | Personal AI Assistant • Context-aware • Workspace Integration | 🔄 In Dev |
-| **Astra** | Conversational CLI • AI in Your Terminal | 🔄 In Dev |
-| **Blockcred** | Web3 Credentialing Platform | ✅ Live |
-| **Derin Foods** | Food Export Platform • Corporate Website | ✅ Live |
+```
+Bothive      Enterprise AI PaaS · Agent Builder · HiveLang DSL          bothive.cloud
+Clara        Personal AI Assistant · Context-Aware · Always Useful       in development
+Astra        Conversational CLI · AI in Your Terminal                    in development
+Blockcred    Web3 Credentialing Platform · Full Frontend                 live
+Derin Foods  Food Export · Corporate Website · Mobile-First              live
+Pxxl App     Frontend · React · Framer Motion                           live
+```
 
 ---
 
-## 🛠️ Tech Stack
+### Stack
 
-### Frontend
+<div align="center">
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-
-### Languages & Tools
-![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ciphrnotfound&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=79c0ff&border_color=30363d)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ciphrnotfound&theme=dark&border_radius=8&background=0d1117)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ciphrnotfound&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_color=30363d)
 
 </div>
 
 ---
 
-## 🎯 What I Do
+### Activity
 
-- 🤖 **AI Infrastructure** — Building scalable, production-ready AI systems
-- 🏗️ **Full-Stack Development** — From database to UI, end-to-end solutions
-- 💡 **Product Thinking** — User-centric design and engineering
-- 🚀 **Rapid Prototyping** — Turning ideas into shipped products
-- 📚 **Open Source** — Contributing to the developer community
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=ciphrnotfound&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=eeeeee&text_color=888888&icon_color=aaaaaa&border_color=222222&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-## 📈 Philosophy
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ciphrnotfound&theme=dark&background=0d0d0d&ring=aaaaaa&fire=eeeeee&currStreakLabel=eeeeee&sideLabels=888888&currStreakNum=eeeeee&sideNums=888888&dates=555555&border=222222" alt="GitHub Streak" />
 
-> Building in public • Shipping in silence • Lagos → Everywhere
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciphrnotfound&layout=compact&theme=dark&bg_color=0d0d0d&title_color=eeeeee&text_color=888888&border_color=222222&hide_border=false&langs_count=6" alt="Top Languages" />
 
-I believe in:
-- **Transparent Development** — Share progress, learn from community
-- **Quality Over Speed** — Ship less, ship better
-- **User First** — Every line of code should serve a purpose
-- **Continuous Learning** — Stay curious, stay hungry
+</div>
 
 ---
 
 <div align="center">
-  <sub>Let's build something extraordinary together 🚀</sub>
-  <br/>
-  <sub>Open to collaborations and interesting projects</sub>
+<sub>building in public · shipping in silence · Lagos → everywhere</sub>
 </div>
