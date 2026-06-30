@@ -13,7 +13,7 @@
 </div>
 
 ---
-
+ 
 ```yaml
 name:      Shay Jeremy
 role:      Full-Stack Software Engineer
