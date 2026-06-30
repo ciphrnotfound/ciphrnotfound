@@ -2,7 +2,7 @@
        
 <h1>Shay Jeremy</h1>      
        
-<p>Full-Stack Engineer · AI Builder · Product Thinker</p>
+<p>Full-Stack Engineer · AI Builder · Product Thinker</p> 
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=300&size=13&pause=1200&color=666666&center=true&vCenter=true&width=500&lines=Founder+%40+Bothive+%E2%80%94+Enterprise+AI+PaaS;Designed+HiveLang%2C+a+DSL+for+AI+Agents;Building+Clara+%26+Astra+in+the+Open;Self-Taught+%C2%B7+2%2B+Years+in+Production;Lagos+%E2%86%92+Everywhere)](https://git.io/typing-svg)
 
