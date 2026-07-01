@@ -1,5 +1,5 @@
 <div align="center">       
-                
+                 
 <h1>Shay Jeremy</h1>                         
              
 <p>Full-Stack Engineer · AI Builder · Product Thinker</p> 
